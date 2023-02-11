@@ -1,0 +1,12 @@
+/Users/belikoooova/RiderProjects/tic-tac-toe/TicTacToeLib/bin/Debug/net6.0/TicTacToeLib.deps.json
+/Users/belikoooova/RiderProjects/tic-tac-toe/TicTacToeLib/bin/Debug/net6.0/TicTacToeLib.dll
+/Users/belikoooova/RiderProjects/tic-tac-toe/TicTacToeLib/bin/Debug/net6.0/TicTacToeLib.pdb
+/Users/belikoooova/RiderProjects/tic-tac-toe/TicTacToeLib/obj/Debug/net6.0/TicTacToeLib.csproj.AssemblyReference.cache
+/Users/belikoooova/RiderProjects/tic-tac-toe/TicTacToeLib/obj/Debug/net6.0/TicTacToeLib.GeneratedMSBuildEditorConfig.editorconfig
+/Users/belikoooova/RiderProjects/tic-tac-toe/TicTacToeLib/obj/Debug/net6.0/TicTacToeLib.AssemblyInfoInputs.cache
+/Users/belikoooova/RiderProjects/tic-tac-toe/TicTacToeLib/obj/Debug/net6.0/TicTacToeLib.AssemblyInfo.cs
+/Users/belikoooova/RiderProjects/tic-tac-toe/TicTacToeLib/obj/Debug/net6.0/TicTacToeLib.csproj.CoreCompileInputs.cache
+/Users/belikoooova/RiderProjects/tic-tac-toe/TicTacToeLib/obj/Debug/net6.0/TicTacToeLib.dll
+/Users/belikoooova/RiderProjects/tic-tac-toe/TicTacToeLib/obj/Debug/net6.0/refint/TicTacToeLib.dll
+/Users/belikoooova/RiderProjects/tic-tac-toe/TicTacToeLib/obj/Debug/net6.0/TicTacToeLib.pdb
+/Users/belikoooova/RiderProjects/tic-tac-toe/TicTacToeLib/obj/Debug/net6.0/ref/TicTacToeLib.dll
